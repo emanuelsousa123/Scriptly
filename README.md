@@ -33,6 +33,3 @@ O Scriptly simplifica o processo de escrita, mantendo a padronização exigida n
 ```bash
 git clone https://github.com/emanuelsousa123/Scriptly.git
 cd Scriptly
-
-```bash
-teste
