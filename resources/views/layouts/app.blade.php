@@ -14,5 +14,8 @@
         <div>
             @include('layouts.navigation')
         </div>
+        <main>
+                {{ $slot }}
+        </main>
     </body>
 </html>
